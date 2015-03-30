@@ -1,7 +1,21 @@
-# 欢迎来到学翻墙！
+# 学翻墙：翻墙知识扫盲站，轻轻松松学翻墙
 
-学翻墙——翻墙知识扫盲站，轻轻松松学翻墙。
+[翻墙基础知识扫盲](fundamentals.md)
 
-现在中文互联网上著名且活跃的翻墙博客有很多，比如[GFWBlog（功夫网与翻墙）](www.gfwblog.org)、[细节的力量](xijie.wordpress.com)、[翻墙网（ATGFW.ORG）](www.atgfw.org)、[GreatFire.org](greatfire.org)、[泡泡](pao-pao.net)等。但是这些网站都是针对已经学会一些翻墙技能，并且具有一定的计算机和互联网基础知识的网民的。也就是说，这些网站的内容具有一定的门槛。这使我萌生了一个想法，那就是向不太懂技术的翻墙新手们提供一些基础的、扫盲性的教程，来填补中文互联网上的这一片空白。基于这个想法，本站的所有教程都是面向翻墙新手，没有任何技术门槛，因此并不包含太多有关具体技术实现的探讨，因为这样的站点已经有很多了。
+[开始你的第一次翻墙：从墙内到墙外](first-time-to-free-internet.md)
 
-我们的目标就是：全民普及翻墙！
+[全平台翻墙教程(1)： Windows 篇](windows.md)
+
+[全平台翻墙教程(2)： Mac OS X 篇](mac-os-x.md)
+
+[全平台翻墙教程(3)： Linux 篇](linux.md)
+
+[全平台翻墙教程(4)： iOS 篇](ios.md)
+
+[全平台翻墙教程(5)： Android 篇](android.md)
+
+[如何设置浏览器代理](browser-proxy-settings.md)
+
+[翻墙教程网站推荐](recommended-websites.md)
+
+[关于本站](about.md)
